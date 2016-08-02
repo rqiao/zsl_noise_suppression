@@ -7,7 +7,7 @@ This repo contains the code for the CVPR 2016 paper:
 Ruizhi Qiao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
 
 ## Instructions
-1 Download the data and noised words candidates for [AwA](https://drive.google.com/open?id=0B0sZ_3CtT43gdXQyd19ZM3B2ejA) and [CUB-200-2011](https://drive.google.com/open?id=0B0sZ_3CtT43gWEZHZXhhRjdCXzg).
+1 Download the data and noised words candidates for [AwA](https://drive.google.com/open?id=0B0sZ_3CtT43gdXQyd19ZM3B2ejA) and [CUB-200-2011](https://drive.google.com/open?id=0B0sZ_3CtT43gWEZHZXhhRjdCXzg) and place them under the repo directory.
 
 2 Run the MATLAB script `./run_demo.m`.
 
